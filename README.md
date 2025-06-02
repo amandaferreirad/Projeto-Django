@@ -3,7 +3,7 @@
 <html lang="pt-br">
   <head>
     <title>Ranking</title>
-    <link rel="stylesheet" href="{% static 'css/ranking.css'%}">
+    <link rel="stylesheet" href="{% static 'css/ranking.css' %}">
     <meta charset="utf-8">
   </head>
   <body>
